@@ -56,49 +56,6 @@
 ---
 
 <!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                       -->
-<!-- ========================================================= -->
-
-<h3 align="center">📱 Featured Projects</h3>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🛒 Marketplace & Delivery**
-E-commerce with cart, order tracking and real-time driver location.
-`Flutter` `BLoC` `REST API` `WebSocket` `Maps`
-
-</td>
-<td width="50%" valign="top">
-
-**🏠 Property & Mapping**
-Real estate platform with AI recommendations and interactive maps.
-`Flutter` `BLoC` `REST API` `AI` `Maps`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**✈️ AirTravel**
-Cross-platform travel app with REST API integration.
-`Flutter` `Dart` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-**🍔 IZGARA**
-Restaurant app with ordering, reservations and payments.
-`Flutter` `Firebase` `Payments` `Maps`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ========================================================= -->
 <!--                     GITHUB STATS                         -->
 <!-- ========================================================= -->
 
