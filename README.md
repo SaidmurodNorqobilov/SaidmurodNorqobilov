@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SAIDMUROD%20NORQOBILOV&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FLUTTER%20DEVELOPER&descAlignY=60&descSize=22&descColor=8BE9FD&color=0:0F172A,35:172554,70:1D4ED8,100:06B6D4"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SAIDMUROD%20NORQOBILOV&fontSize=42&fontColor=ffffff&fontAlignY=38&fontFamily=JetBrains+Mono&animation=twinkling&desc=FLUTTER%20DEVELOPER&descAlignY=60&descSize=22&descColor=8BE9FD&color=0:0F172A,35:172554,70:1D4ED8,100:06B6D4"
     width="100%"
   />
 </p>
@@ -48,7 +48,7 @@
 
 <p align="center">
 
-  <a href="linkedin.com/in/saidmurodnorqobilov">
+  <a href="https://linkedin.com/in/saidmurodnorqobilov">
     <img
       src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
@@ -99,7 +99,7 @@
 ### 📱
 <b>Mobile</b>
 
-Flutter  
+Flutter
 Dart
 
 </td>
@@ -109,7 +109,7 @@ Dart
 ### 🏗️
 <b>Architecture</b>
 
-Clean Architecture  
+Clean Architecture
 BLoC / Cubit
 
 </td>
@@ -119,8 +119,8 @@ BLoC / Cubit
 ### 🌐
 <b>Backend</b>
 
-REST API  
-WebSocket  
+REST API
+WebSocket
 Firebase
 
 </td>
@@ -130,7 +130,7 @@ Firebase
 ### 🚀
 <b>Deployment</b>
 
-Google Play  
+Google Play
 App Store
 
 </td>
@@ -499,11 +499,11 @@ Foundation & Flutter Bootcamp<br>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/saidmurodnorqobilov">
 <img src="https://img.shields.io/badge/LinkedIn-Saidmurod%20Norqobilov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_TELEGRAM_URL">
+<a href="https://telegram.me/fanm1r">
 <img src="https://img.shields.io/badge/Telegram-Saidmurod-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
