@@ -1,91 +1,70 @@
-<h1 align="center">Hi 👋, I'm Saidmurod Norqobilov</h1>
-
-<h3 align="center">Flutter Developer</h3>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  Building scalable and production-ready cross-platform mobile applications.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:00D9FF&height=220&section=header&text=Saidmurod%20Norqobilov&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=0175C2&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Production-Ready+Mobile+Apps;5%2B+Production+Applications;Clean+Architecture+%7C+BLoC+%7C+REST+API;Flutter+%7C+Dart+%7C+JavaScript"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/saidmurodnorqobilov">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://telegram.me/fanm1r">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:saidmurodnorqobilov@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,javascript,firebase,git,github"
+    height="55"
+  />
+</p>
+
+<br>
+
+<!-- ===================== SOCIAL ===================== -->
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+<a href="YOUR_TELEGRAM_URL">
+  <img
+    src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+  />
+</a>
+
+<a href="mailto:saidmurodnorqobilov@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Flutter Developer** with experience building and deploying
-**5+ production-ready cross-platform applications**.
+I'm **Saidmurod Norqobilov**, a **Flutter Developer** focused on building scalable, maintainable, and high-performance cross-platform mobile applications.
 
-I focus on developing scalable, maintainable, and high-performance
-mobile applications using modern Flutter development practices.
-
-- 📱 Flutter & Dart
-- 🏗️ Clean Architecture
-- 🔄 BLoC / Cubit / Provider
-- 🌐 REST APIs & WebSocket
-- 🔥 Firebase
-- 🗺️ Maps & Location
-- 💳 Payments & Integrations
-- 🚀 Google Play & App Store deployment
-- 🔧 Git & CI/CD
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🏗️ Architecture & State Management
-
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cubit-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge" />
-</p>
-
-### 🌐 Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" />
-</p>
-
-### 🧰 Tools & Other Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-  <img src="https://img.shields.io/badge/GoRouter-0175C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maps%20%26%20Location-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
----
-
-## 🚀 What I Do
+I have experience building and deploying **5+ production-ready applications**, working with modern Flutter architecture, APIs, real-time communication, maps, payments, and app deployment.
 
 ```text
-📱 Cross-platform mobile development
-🏗️ Scalable application architecture
-🔄 State management with BLoC / Cubit
-🌐 REST API & WebSocket integration
-🔥 Firebase integration
-🗺️ Maps & location-based features
-💳 Payment integrations
-🚀 Google Play & App Store deployment
+📱 Flutter & Dart
+🏗️ Clean Architecture
+🔄 BLoC / Cubit / Provider
+🌐 REST API & WebSocket
+🔥 Firebase
+🗺️ Maps & Location
+💳 Payments & Integrations
+🚀 Google Play & App Store
+⚡ JavaScript
 🔧 Git & CI/CD
